@@ -1,5 +1,5 @@
 # General Instructions:
-1. You are expected to be a windows user.
+1. To use this tool, You are expected to be a windows user.
 2. Install Java Runtime Environment into your computer if not available. The tool is also attached hereunder
 3. Set your Environmental variables for java. For more details you can refer theis article: https://www.helicalinsight.com/configure-java-environment-variables/ 
 4. Paste the font "Nyala Regular" attached herewith into the directory "C:\Windows\Fonts" if it is not available to support amharic characters.
