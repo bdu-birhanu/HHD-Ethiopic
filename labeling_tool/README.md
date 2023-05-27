@@ -12,7 +12,7 @@
                    password=annotator
 8. Write the corresponding text for the image displayed on the window appered when you logged in successfully and press "Save" button. 
    The image annotated and its corresponding text file will be directly stored to your folder "C:\project\image"
-   You can also delete images which are assummed to be blurred and not efficient for annotation. These images will be stored to  "C:\project\deleted"  
+   You can also delete deformed images which donot contian any text/character. These images will be stored to  "C:\project\deleted"  
                                  Please follow the above mentioned steps strictly.
 
                                                     Good Luck!!
