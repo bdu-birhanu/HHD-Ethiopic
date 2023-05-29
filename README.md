@@ -17,7 +17,7 @@ The HHD-Ethiopic dataset consists of ~80k text-line images extracted from $18^{t
 | [Image 4] | ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/4de16d8d-47df-4c53-a73f-f2c454ad8853) | ወአድኅነከ፡ይትፌሥሑ።  |
 
 ## Getting Started
-In the current implementation, the HHD-Ethiopic dataset is used for training and testining the baesline models. Download the dataset from the above link.
+In the current implementation, the numpy format of the HHD-Ethiopic dataset is used for training and testining the baesline models. Download the dataset from the above link.
 
 After downloading HHD-Ethiopic, install the requirements, to demonstarte we just use the data stored in numpy format:
  ```markdown
