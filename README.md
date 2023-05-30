@@ -17,9 +17,9 @@ The HHD-Ethiopic dataset consists of ~80k text-line images extracted from $18^{t
 | [Image 4] | ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/4de16d8d-47df-4c53-a73f-f2c454ad8853) | ወአድኅነከ፡ይትፌሥሑ።  |
 
 ## Getting Started
-In the current implementation, the numpy format of the HHD-Ethiopic dataset is used for training and testining the baesline models. Download the dataset from the above link.
+In the current implementation, the numpy format of the HHD-Ethiopic dataset is used for training and testining the baesline models. Download the dataset.
 
-After downloading HHD-Ethiopic, install the requirements, to demonstarte we just used the [dataset stored in numpy format](https://huggingface.co/datasets/OCR-Ethiopic/HHD-Ethiopic/blob/main/train/train_numpy.zip)
+After downloading HHD-Ethiopic, install the requirements, to demonstarte we just used the [Train data](https://huggingface.co/datasets/OCR-Ethiopic/HHD-Ethiopic/blob/main/train/train_numpy.zip) and [Test data ](https://huggingface.co/datasets/OCR-Ethiopic/HHD-Ethiopic/blob/main/test/test_rand/test_rand_numpy.zip) stored in numpy format.  To train and test all baseline models, please use [all source codes](https://github.com/bdu-birhanu/HHD-Ethiopic/tree/main/src/all_code) link.
  ```markdown
 pip install -r requirements.txt
   ```
@@ -34,9 +34,10 @@ To Prediction/test
 $ python3 test_model_plain_CTC.py
 ``` 
 Alternatively you can test the model by runing the google colab code directly as below.
-### Code Testing
+### Testing
 
-You can access the code demonstration in Google Colab  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([paste_the_copied_notebook_URL_here](https://github.com/bdu-birhanu/HHD-Ethiopic/blob/main/demo_Plain_CTC.ipynb)). Sample results and Character Error Rate (CER) per line are shown below:
+
+You can also access the code demonstration in Google Colab and run directly for there [![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/c13c4086-8278-47d4-8bde-ef19d3204439)](https://github.com/bdu-birhanu/HHD-Ethiopic/blob/main/demo_Plain_CTC.ipynb) Sample results and Character Error Rate (CER) per line are shown below:
 | <sub>Image</sub>| <sub>Ground-truth</sub> | <sub> Prediction </sub>| <sub> Edit Distance</sub> | <sub>CER/Line (100%) </sub>|
 |-------|--------------|------------|---------------|----------|
 |<sub> ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/dd64c5d2-c9d2-4928-bd61-9f9d8c86a7b1) </sub>| <sub> ሰፉሐከ፡የማነከ፡ወውሕጠቶሙ፡ምድር። </sub>|  <sub> ሰፉሕከ፡የማነከ፡ወውሕጠቶሙ፡ምድ። </sub>| 2 | 9 |
@@ -46,16 +47,16 @@ You can access the code demonstration in Google Colab  [![Open In Colab](https:/
 
 
             
-## Feedbacks
+### Feedbacks
 We welcome contributions and feedback from the research community to further enhance the HHD-Ethiopic dataset and code. If you have any suggestions, bug reports, or improvements, please feel free to send them via email: ethiopic.dataset@gmail.com
 
 
 
-## Acknowledgments
+### Acknowledgments
 We would like to express our gratitude to the Ethiopian National Archive and Library Agency (ENALA) for providing access to the historical handwritten documents used in creating the HHD-Ethiopic dataset. We also acknowledge the support and contributions of the annotators who, making this dataset possible.
 
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+### License
+![cc](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/49b9e794-f526-4f85-96c0-30b842c9abd0)This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
