@@ -1,0 +1,1 @@
+{'activation': 'relu', 'batch_size': 24, 'dropout': 0.39, 'epoch': 21, 'feature_map_1': 153, 'feature_map_2': 148, 'kernel': 3, 'rnn_size': 196}
