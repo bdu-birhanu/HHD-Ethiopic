@@ -1,0 +1,48 @@
+{
+    "metainfo": {
+        "dataset_type": "TextRecogDataset",
+        "task_name": "textrecog"
+    },
+    "data_list": [
+        {
+            "instances": [
+                {
+                    "text": "ፅ፡ዳዊት፡፻፵፱፡ሰብሕዎ፡"
+                }
+            ],
+            "img_path": "test_rand_00000.png"
+        },
+        {
+            "instances": [
+                {
+                    "text": "ኦሰ፡ኤጲሰ፡ቆጶስ፡፲፬እስተ"
+                }
+            ],
+            "img_path": "test_rand_00001.png"
+        },
+        {
+            "instances": [
+                {
+                    "text": "የምንሰራው፡ብዙ፡በጎ፡ነገር"
+                }
+            ],
+            "img_path": "test_rand_00002.png"
+        },
+        {
+            "instances": [
+                {
+                    "text": "ገር፡ወይቤሎሙ፡ሙ፡አይቲ፡ሀሎ፡ከ"
+                }
+            ],
+            "img_path": "test_rand_00003.png"
+        },
+        {
+            "instances": [
+                {
+                    "text": "አብዩረኪ፡ርኩስ፡ወፈ"
+                }
+            ],
+            "img_path": "test_rand_00004.png"
+        }
+    ]
+}
