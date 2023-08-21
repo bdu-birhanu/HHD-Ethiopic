@@ -45,7 +45,7 @@ Sample results and Character Error Rate (CER) per line are shown below:
 |-------|--------------|------------|---------------|----------|
 |<sub> ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/dd64c5d2-c9d2-4928-bd61-9f9d8c86a7b1) </sub>| <sub> ሰፉሐከ፡የማነከ፡ወውሕጠቶሙ፡ምድር። </sub>|  <sub> ሰፉሕከ፡የማነከ፡ወውሕጠቶሙ፡ምድ። </sub>| 2 | 9 |
 | ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/703410fe-635c-434e-9a89-7a4144f5d4c9) | <sub> ምድር፡ይኔጽር፡ዘሀሎ፡በየብስ፡</sub>   |  <sub> ምድር፡ይኔጽር፡ዘሀሎ፡በየብስ፡ </sub> | 1 | 5|
-| ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/46384b40-1112-42d2-b608-ba01298efa39) |<sub> ለብሒረ፡ኢትየጵያ </sub> |  <sub>  አብሔረ፡ኢትዮጵያ </sub> | 4| 40|
+| ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/46384b40-1112-42d2-b608-ba01298efa39) |<sub> አብሔረ፡ኢትዮጵያ </sub> |  <sub> ለብሒረ፡ኢትየጵያ  </sub> | 4| 40|
 | ![download](https://github.com/bdu-birhanu/HHD-Ethiopic/assets/35142364/9baf0493-1fdf-4817-aa2b-700a688ee90e) | <sub>ዓገሠ።በዝሕማም፡መሥጋ፡</sub> |  <sub>  ዓገሠ።በዝሕማም፡በሥጋ፡ </sub>| 2| 20|
 
 
