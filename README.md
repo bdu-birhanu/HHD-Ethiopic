@@ -51,12 +51,12 @@ Sample results and Character Error Rate (CER) per line are shown below:
 
             
 ### Feedbacks
-We welcome contributions and feedback from the research community to further enhance the HHD-Ethiopic dataset and code. If you have any suggestions, bug reports, or improvements, please feel free to send them via email: ethiopic.dataset@gmail.com
+We welcome contributions and feedback from the research community to further enhance the HHD-Ethiopic dataset and code. If you have any suggestions, please feel free to send them via email: ethiopic.dataset@gmail.com
 
 
 
 ### Acknowledgments
-We would like to express our gratitude to the Ethiopian National Archive and Library Agency (ENALA) for providing access to the historical handwritten documents used in creating the HHD-Ethiopic dataset. We are also grateful to ICT4D research center, Bahir Dar Institute of Technology, and ChaLearn for their generous funding. Furthermore, we would like to acknowledge the support and contributions of the annotators who made this dataset possible.
+We would like to express our gratitude to the Ethiopian National Archive and Library Agency (ENALA) for providing access to the historical handwritten documents used in creating the HHD-Ethiopic dataset. We are also grateful to ICT4D research center, Bahir Dar Institute of Technology, and ChaLearn for their funding. Furthermore, we would like to acknowledge the support and contributions of the annotators who made this dataset possible.
 
 
 ### License
