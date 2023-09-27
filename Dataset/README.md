@@ -47,7 +47,7 @@ If you use the hhd-ethiopic dataset in your research, please consider citing it:
 
 ```
 @misc {birhanu_2023,
-  author = { {Birhanu H.Belay, Isabelle Guyon,Tadele Mengiste, Bezawork Tilahun, Marcus Liwicki, Tesfa Tegegne, Romain Egele, Tsiyon Worku },
+  author = { {Birhanu H.Belay, Isabelle Guyon,Tadele Mengiste, Bezawork Tilahun, Marcus Liwicki, Tesfa Tegegne, Romain Egele },
 	title  = { HHD-Ethiopic:A Historical Handwritten Dataset for Ethiopic OCR with Baseline Models and Human-level Performance (Revision 50c1e04) },
 	year   = 2023,
 	url    = { https://huggingface.co/datasets/OCR-Ethiopic/HHD-Ethiopic },
