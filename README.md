@@ -51,7 +51,7 @@ Sample results and Character Error Rate (CER) per line are shown below:
 
             
 ### Feedbacks
-We welcome contributions and feedback from the research community to further enhance the HHD-Ethiopic dataset and code. If you have any suggestions, please feel free to send them via email: ethiopic.dataset@gmail.com
+We welcome contributions and feedback from the research community to further enhance the HHD-Ethiopic dataset and code. If you have any suggestions, please feel free to send them via email: birhanu.hailub@gmail.com or ethiopic.dataset@gmail.com
 
 
 
